@@ -3,10 +3,10 @@
 
 ## Membres du groupe
 
-Robel T.
-Loris Crull
-Elodie Plagier
-Stephane Selim
+Robel T. <br>
+Loris Crull <br>
+Elodie Plagier <br>
+Stephane Selim <br>
 
 
 ## First Improvement description 
