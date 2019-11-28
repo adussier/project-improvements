@@ -5,7 +5,7 @@
 
 Robel T. <br>
 Loris Crull <br>
-Elodie Plagier <br>
+Elodie Lagier <br>
 Stephane Selim <br>
 
 
